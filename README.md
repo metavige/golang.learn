@@ -5,3 +5,4 @@
 有問題一個一個解了就知道了～  
 
 - [Example 1 - 去抓某個網址的 Status, Response](./example1)
+- [Example 2 - 寫程式一定要懂 Log](./example2)
