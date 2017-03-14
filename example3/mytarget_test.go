@@ -34,7 +34,7 @@ func Test_multiple_2(t *testing.T) {
 		want int
 	}{
 		{"test1", args{1, 2}, 2},
-		{"test2", args{2, 2}, 4},
+		{name: "test2", args: args{2, 2}, want: 4},
 	}
 
 	for _, tt := range tests {
