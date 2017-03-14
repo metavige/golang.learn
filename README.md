@@ -6,3 +6,4 @@
 
 - [Example 1 - 去抓某個網址的 Status, Response](./example1)
 - [Example 2 - 寫程式一定要懂 Log](./example2)
+- [Example 3 - 自動產生測試案例，連懶惰的理由都沒有](./example3)

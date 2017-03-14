@@ -1,0 +1,21 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/.DS_Store": true,
+		".idea": true
+	},
+	"go.buildOnSave": true,
+	"go.lintOnSave": true,
+	"go.vetOnSave": true,
+	"go.buildTags": "",
+	"go.buildFlags": [],
+	"go.lintTool": "golint",
+	"go.lintFlags": [],
+	"go.vetFlags": [],
+	"go.testOnSave": false,
+	"go.formatOnSave": true,
+	"go.formatTool": "goreturns"
+}
